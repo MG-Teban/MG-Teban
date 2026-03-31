@@ -15,5 +15,3 @@ Beyond traditional IT, I'm deeply interested in the intersection of automation a
 ---
 Currently building projects around IAM automation, AI powered IT support tooling, and workflow orchestration. Feel free to explore my repos and reach out if you'd like to connect!
 📫 contact@estebanespinosa.dev
- 🔗 LinkedIn
- 🌐 Portfolio
